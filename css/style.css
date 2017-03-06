@@ -1,0 +1,36 @@
+body {
+	font-family: 'Ubuntu', sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin-top:5px;
+	margin-bottom:10px;
+}
+
+.navbar {
+	border-radius: 0;
+	margin-bottom:12px;
+}
+
+.navbar-brand {
+	padding-right:60px;
+}
+
+.content {
+	margin-top:12px;
+	margin-bottom: 12px;
+}
+
+.btn-cart {
+	width:100%;
+}
+
+.footer {
+	background-color:#f8f8f8;
+	border:1px solid #e7e7e7;
+}
+
+.footer ul > li > a {
+	color:#777;
+	text-decoration: none;
+}
